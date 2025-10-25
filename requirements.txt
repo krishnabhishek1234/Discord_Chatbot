@@ -1,0 +1,5 @@
+py-cord
+sqlalchemy
+psycopg2-binary
+google-generativeai
+python-dotenv
